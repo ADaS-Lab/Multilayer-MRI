@@ -6,4 +6,4 @@ In this study, we aimed to combine the morphological, structural and functional 
 
 This work was published in:
 
-- J. Casas-Roma, E. Martinez-Heras, A. Solé-Ribalta, E. Solana, E. Lopez-Soley, F. Vivó, M. Diaz-Hurtado, S. Alba-Arbalat, M. Sepulveda, Y. Blanco, A. Saiz, J. Borge-Holthoefer, S. Llufriu, F. Prados (2022). "_Applying multilayer analysis to morphological, structural and functional brain networks to identify relevant dysfunction patterns_". Network Neuroscience 1-42. [doi:10.1162/netn_a_00258](https://doi.org/10.1162/netn_a_00258)
+- J. Casas-Roma, E. Martinez-Heras, A. Solé-Ribalta, E. Solana, E. Lopez-Soley, F. Vivó, M. Diaz-Hurtado, S. Alba-Arbalat, M. Sepulveda, Y. Blanco, A. Saiz, J. Borge-Holthoefer, S. Llufriu, F. Prados (2022). "_Applying multilayer analysis to morphological, structural and functional brain networks to identify relevant dysfunction patterns_". __Network Neuroscience__ 1-42. [doi:10.1162/netn_a_00258](https://doi.org/10.1162/netn_a_00258)
