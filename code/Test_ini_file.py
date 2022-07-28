@@ -8,7 +8,7 @@ Created on Tue Mar  9 15:47:17 2021
 import configparser
 
 config = configparser.ConfigParser()
-config.read('EXP1.ini')
+config.read('Test.ini')
 
 for conf in config.sections():
     print("*** Section [{}]".format(conf))
